@@ -1,0 +1,31 @@
+{
+    "name": "@softvisio/geoip-country",
+    "version": "0.0.0",
+    "description": "GeoIP country",
+    "keywords": [
+        "softvisio",
+        "geoip"
+    ],
+    "homepage": "https://softvisio-node.github.io/geoip-country/",
+    "bugs": {
+        "url": "https://github.com/softvisio-node/geoip-country/issues",
+        "email": "zdm <zdm@softvisio.net>"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/softvisio-node/geoip-country.git"
+    },
+    "license": "ISC",
+    "author": "zdm <zdm@softvisio.net>",
+    "type": "module",
+    "imports": {
+        "#lib/*": "./lib/*.js"
+    },
+    "exports": {
+        "./*": "./lib/*.js"
+    },
+    "scripts": {
+        "install": "node bin/update.js",
+        "update": "node bin/update.js"
+    }
+}
