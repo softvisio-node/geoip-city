@@ -1,19 +1,19 @@
 {
-    "name": "@softvisio/geoip-country",
+    "name": "@softvisio/geoip-city",
     "version": "0.0.0",
-    "description": "GeoIP country",
+    "description": "GeoIP city",
     "keywords": [
         "softvisio",
         "geoip"
     ],
-    "homepage": "https://softvisio-node.github.io/geoip-country/",
+    "homepage": "https://softvisio-node.github.io/geoip-city/",
     "bugs": {
-        "url": "https://github.com/softvisio-node/geoip-country/issues",
+        "url": "https://github.com/softvisio-node/geoip-city/issues",
         "email": "zdm <zdm@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/softvisio-node/geoip-country.git"
+        "url": "https://github.com/softvisio-node/geoip-city.git"
     },
     "license": "ISC",
     "author": "zdm <zdm@softvisio.net>",
