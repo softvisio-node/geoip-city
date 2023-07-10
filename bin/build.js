@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import Cli from "#core/cli";
-import externalResources from "#core/external-resources";
+import Geolite2City from "#lib/external-resources/geolite2-city";
 
 const CLI = {
     "title": "Update resources",
@@ -18,12 +18,7 @@ const CLI = {
 
 await Cli.parse( CLI );
 
-externalResources.add( "softvisio-node/geoip-city/resources/geolite2-city", import.meta.url );
+var res;
 
-const res = await externalResources.update( {
-    "remote": true,
-    "force": process.cli.options.force,
-    "silent": false,
-} );
-
+res = await new Geolite2City().build( { "force": process.cli.options.force } );
 if ( !res.ok ) process.exit( 1 );

@@ -1,6 +1,6 @@
 {
     "name": "@softvisio/geoip-city",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "GeoIP city",
     "keywords": [
         "softvisio",
@@ -19,6 +19,7 @@
     "author": "zdm <zdm@softvisio.net>",
     "type": "module",
     "imports": {
+        "#core/*": "@softvisio/core/*",
         "#lib/*": "./lib/*.js"
     },
     "exports": {
@@ -26,7 +27,11 @@
         "./*": "./lib/*.js"
     },
     "scripts": {
+        "build": "node bin/build.js",
         "install": "node bin/update.js",
         "update": "node bin/update.js"
+    },
+    "dependencies": {
+        "@softvisio/core": "^7.36.4"
     }
 }
