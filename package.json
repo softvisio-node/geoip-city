@@ -31,7 +31,7 @@
         "install": "node bin/update.js",
         "update": "node bin/update.js"
     },
-    "dependencies": {
+    "peerDependencies": {
         "@softvisio/core": "^7.36.4"
     }
 }
