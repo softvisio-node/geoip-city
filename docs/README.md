@@ -2,7 +2,7 @@
 
 <!-- Tell about the project -->
 
-Link to the resources: [https://github.com/softvisio-node/city/releases/tag/resources](https://github.com/softvisio-node/v/releases/tag/resources).
+Link to the resources: [https://github.com/softvisio-node/geoip-city/releases/tag/resources](https://github.com/softvisio-node/geoip-city/releases/tag/resources).
 
 ## Install
 
