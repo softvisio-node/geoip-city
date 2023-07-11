@@ -18,7 +18,7 @@ const CLI = {
 
 await Cli.parse( CLI );
 
-externalResources.add( "softvisio-node/geoip-city/resources/geolite2-city", import.meta.url );
+await externalResources.add( "softvisio-node/geoip-city/resources/geolite2-city", import.meta.url, { "update": false } );
 
 const res = await externalResources.update( {
     "remote": true,
