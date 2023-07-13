@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 import Cli from "#core/cli";
+import ExternalResourceBuilder from "#core/external-resource-builder";
 import Geolite2City from "#lib/external-resources/geolite2-city";
 
 const CLI = {
@@ -18,7 +19,13 @@ const CLI = {
 
 await Cli.parse( CLI );
 
-var res;
+const res = await ExternalResourceBuilder.build(
+    [
 
-res = await new Geolite2City().build( { "force": process.cli.options.force } );
+        //
+        Geolite2City,
+    ],
+    { "force": process.cli.options.force }
+);
+
 if ( !res.ok ) process.exit( 1 );
