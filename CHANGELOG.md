@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.0.10 (2023-07-13)
+
+Fixes:
+
+-   fix: install script
+
 ### 1.0.9 (2023-07-13)
 
 Fixes:
