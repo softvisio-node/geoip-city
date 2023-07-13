@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.0.7 (2023-07-13)
+
+Fixes:
+
+-   fix: find root
+
 ### 1.0.6 (2023-07-12)
 
 Fixes:
