@@ -18,7 +18,7 @@ const CLI = {
 
 await Cli.parse( CLI );
 
-externalResources.add( "softvisio-node/geoip-city/resources/geolite2-city" );
+externalResources.add( "softvisio-node/core/resources/geolite2-city" );
 
 const res = await externalResources.update( {
     "force": process.cli.options.force,

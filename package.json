@@ -33,7 +33,6 @@
         "/src"
     ],
     "scripts": {
-        "build": "node bin/build.js",
         "install": "node bin/install.js"
     },
     "peerDependencies": {
