@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.0.18 (2023-12-02)
+
+Fixes:
+
+-   fix: resources
+
 ### 1.0.17 (2023-11-05)
 
 Fixes:
