@@ -1,6 +1,8 @@
 # Introduction
 
-<!-- Tell about the project -->
+Maxmind `GeoIP2 City` database.
+
+Database is updated automatically every 4 hours during the process runtime.
 
 ## Install
 
@@ -10,4 +12,8 @@ npm i @softvisio/geoip-city
 
 ## Usage
 
-<!-- Tell about how to use the project, give code examples -->
+```javascript
+import geiipCity from "@softvisio/geoip-city";
+
+const res = geiipCity.get(ipAddress);
+```
