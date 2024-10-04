@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.0.26 (2024-10-04)
+
+Fixes:
+
+-   fix: install cli options
+
 ### 1.0.25 (2024-09-17)
 
 No notable changes since the previous release.
