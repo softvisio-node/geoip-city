@@ -20,9 +20,8 @@ await Cli.parse( CLI );
 
 externalResources.add( "softvisio-node/core/resources/geolite2-city" );
 
-const res = await externalResources.update( {
+const res = await externalResources.install( {
     "force": process.cli.options.force,
-    "silent": false,
 } );
 
 if ( !res.ok ) process.exit( 1 );
