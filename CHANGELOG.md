@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.0.27 (2024-10-06)
+
+Fixes:
+
+-   fix: install script
+
 ### 1.0.26 (2024-10-04)
 
 Fixes:
