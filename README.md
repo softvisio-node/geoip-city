@@ -1,6 +1,6 @@
 <!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
 
-> :information_source: Please, see the full project documentation here: [https://softvisio-node.github.io/geoip-city/](https://softvisio-node.github.io/geoip-city/).
+> :information_source: Please, see the full project documentation here:<br>[https://softvisio-node.github.io/geoip-city/](https://softvisio-node.github.io/geoip-city/)
 
 # Introduction
 
@@ -11,7 +11,7 @@ Database is updated automatically every 4 hours during the process runtime.
 ## Install
 
 ```shell
-npm i @softvisio/geoip-city
+npm install @softvisio/geoip-city
 ```
 
 ## Usage
