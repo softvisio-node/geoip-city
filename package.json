@@ -33,8 +33,7 @@
         "/src"
     ],
     "scripts": {
-        "install": "node bin/install.js",
-        "publish": "softvisio-cli package publish"
+        "install": "node bin/install.js"
     },
     "peerDependencies": {
         "@softvisio/core": "^7.36.4"
