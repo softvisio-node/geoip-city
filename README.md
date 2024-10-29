@@ -19,5 +19,5 @@ npm install @softvisio/geoip-city
 ```javascript
 import geiipCity from "@softvisio/geoip-city";
 
-const res = geiipCity.get(ipAddress);
+const res = geiipCity.get( ipAddress );
 ```
