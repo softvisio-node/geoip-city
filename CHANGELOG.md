@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.0.32 (2024-10-29)
+
+Other changes:
+
+-   chore: update docs
+
+[Compare with the previous release: v1.0.31 ... v1.0.32](https://github.com/softvisio-node/geoip-city/compare/v1.0.31...v1.0.32)
+
 ### 1.0.31 (2024-10-20)
 
 No notable changes since the previous release.
