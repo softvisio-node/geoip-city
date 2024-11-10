@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.0.34 (2024-11-10)
+
+Other changes:
+
+-   chore: chmod files
+
+[Compare with the previous release: v1.0.33 ... v1.0.34](https://github.com/softvisio-node/geoip-city/compare/v1.0.33...v1.0.34)
+
 ### 1.0.33 (2024-11-07)
 
 Other changes:
