@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.0.37 (2024-12-04)
+
+Other changes:
+
+- chore: update external resources path
+
+[Compare with the previous release: v1.0.36 ... v1.0.37](https://github.com/softvisio-node/geoip-city/compare/v1.0.36...v1.0.37)
+
 ### 1.0.36 (2024-11-27)
 
 Other changes:
