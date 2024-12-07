@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.0.38 (2024-12-07)
+
+Other changes:
+
+- chore: set yaml indent to 4 spaces
+
+[Compare with the previous release: v1.0.37 ... v1.0.38](https://github.com/softvisio-node/geoip-city/compare/v1.0.37...v1.0.38)
+
 ### 1.0.37 (2024-12-04)
 
 Other changes:
