@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.0.40 (2025-02-19)
+
+Other changes:
+
+- chore: update cli config
+
+Compare with the previous release: [`v1.0.39...v1.0.40`](https://github.com/softvisio-node/geoip-city/compare/v1.0.39...v1.0.40)
+
 ### 1.0.39 (2025-01-08)
 
 Other changes:
