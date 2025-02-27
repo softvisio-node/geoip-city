@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.0.42 (2025-02-27)
+
+Other changes:
+
+- chore: add editorconfig yaml
+
+Compare with the previous release: [`v1.0.41...v1.0.42`](https://github.com/softvisio-node/geoip-city/compare/v1.0.41...v1.0.42)
+
 ### 1.0.41 (2025-02-26)
 
 Other changes:
