@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.0.43 (2025-03-04)
+
+Other changes:
+
+- chore: update package metadata
+
+Compare with the previous release: [`v1.0.42...v1.0.43`](https://github.com/softvisio-node/geoip-city/compare/v1.0.42...v1.0.43)
+
 ### 1.0.42 (2025-02-27)
 
 Other changes:
