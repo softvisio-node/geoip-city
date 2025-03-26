@@ -10,7 +10,7 @@ Database is updated automatically every 4 hours during the process runtime.
 
 ## Install
 
-```shell
+```sh
 npm install @softvisio/geoip-city
 ```
 
