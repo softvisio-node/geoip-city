@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.0.45 (2025-03-26)
+
+Other changes:
+
+- chore: update markdown code tags
+
+Compare with the previous release: [`v1.0.44...v1.0.45`](https://github.com/softvisio-node/geoip-city/compare/v1.0.44...v1.0.45)
+
 ### 1.0.44 (2025-03-04)
 
 Other changes:
