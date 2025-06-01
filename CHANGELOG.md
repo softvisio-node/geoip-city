@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.46 (2025-06-01)
+
+**Other changes:**
+
+- \[PATCH] chore: update docs (👬 zdm)
+
+Compare with the previous release: [v1.0.45](https://github.com/softvisio-node/geoip-city/compare/v1.0.45...v1.0.46)
+
 ### 1.0.45 (2025-03-26)
 
 Other changes:
