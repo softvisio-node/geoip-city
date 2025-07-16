@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.48 (2025-07-16)
+
+**Other changes:**
+
+- docs: update (● [ad02ef6](https://github.com/softvisio-node/geoip-city/commit/ad02ef6); 👬 zdm)
+
+Compare with the previous release: [v1.0.47](https://github.com/softvisio-node/geoip-city/compare/v1.0.47...v1.0.48)
+
 ### v1.0.47 (2025-06-07)
 
 **Other changes:**
