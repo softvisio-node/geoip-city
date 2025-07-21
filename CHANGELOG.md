@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.49 (2025-07-21)
+
+**Other changes:**
+
+- style: lint (● [f3d040c](https://github.com/softvisio-node/geoip-city/commit/f3d040c); 👬 zdm)
+
+Compare with the previous release: [v1.0.48](https://github.com/softvisio-node/geoip-city/compare/v1.0.48...v1.0.49)
+
 ### v1.0.48 (2025-07-16)
 
 **Other changes:**
