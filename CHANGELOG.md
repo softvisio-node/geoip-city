@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.50 (2025-07-22)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix editorconfig (● [c41e1ab](https://github.com/softvisio-node/geoip-city/commit/c41e1ab); 👬 zdm)
+
+Compare with the previous release: [v1.0.49](https://github.com/softvisio-node/geoip-city/compare/v1.0.49...v1.0.50)
+
 ### v1.0.49 (2025-07-21)
 
 **Other changes:**
